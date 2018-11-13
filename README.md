@@ -1,0 +1,1 @@
+# django-rest_framework-model_viewset
