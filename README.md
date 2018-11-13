@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# django-rest_framework
-=======
 # django-rest_framework-model_viewset
->>>>>>> 132e041f7ffb21662f487543d43e99963e80a00d
+Ejemplo que muestra el uso de un ModelViewSet de Dejango REST Framework
+
+# Run
+python manage.py runserver
